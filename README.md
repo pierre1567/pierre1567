@@ -1,6 +1,7 @@
 # 👋🏽 Olá, eu sou Robespierre Santana Silva
 
-<img width="1536" height="1024" alt="Copilot_20251015_215014" src="https://github.com/user-attachments/assets/aefd3e9c-b922-42e8-9958-3b7633e7d083" />
+
+<img width="1536" height="1024" alt="Copilot_20251015_215014" src="https://github.com/user-attachments/assets/0fc086ac-3711-4254-ba89-2e0673240345" />
 
 
 Sou apaixonado por transformar dados em decisões estratégicas e otimizar processos com tecnologia.  
